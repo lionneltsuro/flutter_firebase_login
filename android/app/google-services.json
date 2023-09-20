@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867725831278",
+    "project_id": "fir-login-de1b8",
+    "storage_bucket": "fir-login-de1b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867725831278:android:175a403404b1cb0c218a7f",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.flutter_firebase_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWPXE5KjkqSnk_sbCjTMLjQHNOppJFDTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
